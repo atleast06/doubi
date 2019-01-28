@@ -63,7 +63,10 @@
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
-
+管理命令：
+``` bash
+./ss-go.sh
+```
 ---
 ## ssr.sh
 
@@ -88,7 +91,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
-
+管理命令：
+``` bash
+bash ssr.sh
+```
 ---
 ## ssrmu.sh
 
@@ -114,7 +120,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
-
+管理命令：
+``` bash
+bash ssrmu.sh
+```
 ---
 ## brook.sh
 
@@ -125,6 +134,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi
 #### 下载安装:
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+```
+管理命令：
+``` bash
+./brook.sh
 ```
 
 ---
@@ -137,6 +150,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi
 #### 下载安装:
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/atleast06/doubi/master/goflyway.sh && chmod +x goflyway.sh && bash goflyway.sh
+```
+管理命令：
+``` bash
+./goflyway.sh
 ```
 
 ---
